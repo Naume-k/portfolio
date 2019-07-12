@@ -2,6 +2,7 @@ body {
     background-image: url("https://spin.atomicobject.com/wp-content/uploads/20180315173044/Girl_With_Laptop_Low_res-590x393.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: fixed;
    }
    ul{
     list-style-type:none;
@@ -49,10 +50,13 @@ body {
         flex-direction: row;
         justify-content: space-around;  
         width: auto;   
-        box-sizing: border-box;
+        box-sizing: inherit;
+        align-items: center;
+    
   }
   img{
       padding-left: 15px;
+      margin-left: 25%;
   }
 
   
