@@ -27,16 +27,16 @@ body {
        color: green;
        padding: 300px;
        font-weight: bolder;
+       font-size: 50px;
    }
    h2{
        text-align: center;
        font-weight: bolder;
        color: azure;
        padding-top: 20px;
+       font-size: 40px;
    }
-   .about-me{
-       background-color: lightslategray;
-   }
+   
     p{
         text-align: center;
    }
@@ -47,7 +47,12 @@ body {
   .flex-container {
         display: flex;
         flex-direction: row;
-        justify-content: space-between;     
+        justify-content: space-around;  
+        width: auto;   
+        box-sizing: border-box;
+  }
+  img{
+      padding-left: 15px;
   }
 
   
