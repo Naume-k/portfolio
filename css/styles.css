@@ -37,7 +37,7 @@ body {
        padding-top: 20px;
        font-size: 40px;
    }
-   
+
     p{
         text-align: center;
    }
@@ -57,6 +57,7 @@ body {
   img{
       padding-left: 15px;
       margin-left: 25%;
+      padding-top: 0%;
   }
   .about-me{
       background-color: royalblue;
@@ -64,8 +65,6 @@ body {
   h4{
       text-align: center;
   }
-  ol{
-      text-align: center;
-  }
+ 
 
   
