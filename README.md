@@ -15,3 +15,6 @@ I have used Html and Css to build it.
 If you run into any issue or maybe have and idea, you can always contact me on my email (kobnaome@gmail.com).
 ### License
 Copyright © 2019 Kobusingye Naume.
+### Link to github pages
+* my favourite things. (https://github.com/Naume-k/my-first-webpage.git)
+* Cookie recipe. (https://github.com/Naume-k/cookie-recipe.git).
