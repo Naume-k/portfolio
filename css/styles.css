@@ -70,7 +70,7 @@ body {
   strong{
       color: aliceblue;
   }
-  #one{
+  .one{
       display: flex;
       justify-content: space-around;
       flex-direction: row;
@@ -79,6 +79,9 @@ body {
   h5{
       font-size: 17px;
       color: aliceblue;
+  }
+  .projects{
+      background-color: rgb(127, 182, 255);
   }
 
  
