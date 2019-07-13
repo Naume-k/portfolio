@@ -60,6 +60,21 @@ body {
   .projects{
       background-color: rgb(127, 182, 255);
   }
+  footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+    height:auto;
+    width: 100%;
+    background-color: rgb(20,20,28);
+    color: white;
+    text-align: center;
+    padding: 10px;
+ }
+ .foot{
+     display: flex;
+     justify-content: space-between;
+ }
 
  
 
