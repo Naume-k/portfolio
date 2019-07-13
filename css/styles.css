@@ -37,7 +37,6 @@ body {
        padding-top: 20px;
        font-size: 40px;
    }
-
     p{
         text-align: center;
    }
@@ -51,8 +50,7 @@ body {
         justify-content: space-around;  
         width: auto;   
         box-sizing: inherit;
-        align-items: center;
-    
+        align-items: center; 
   }
   img{
       padding-left: 15px;
@@ -65,8 +63,6 @@ body {
   h4{
       color: aliceblue;
   }
-  
-  
   strong{
       color: aliceblue;
   }
