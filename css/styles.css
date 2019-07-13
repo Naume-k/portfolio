@@ -1,10 +1,10 @@
 body {
-    background-image: url("https://spin.atomicobject.com/wp-content/uploads/20180315173044/Girl_With_Laptop_Low_res-590x393.jpg");
+    background-image: url("https://cdn.stocksnap.io/img-thumbs/960w/HMPNPRBUJ7.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
    }
-   ul{
+   /* ul{
     list-style-type:none;
     margin:o;
     padding:0;
@@ -15,18 +15,18 @@ body {
     }
     li a{
       display:block;
-      color:royalblue;
+      color:rgb(6, 41, 241);
       text-align:center;
       padding:16px 70px;
       text-decoration:none;
     }
     li a:hover:not(.active){
-      background-color:green;
-    }
+      background-color:rgb(248, 252, 252);
+    } */
    h1{
        text-align: center;
-       color: green;
-       padding: 300px;
+       color: rgb(4, 41, 161);
+       padding: 390px;
        font-weight: bolder;
        font-size: 50px;
    }
@@ -65,8 +65,8 @@ body {
   h4{
       text-align: center;
   }
-  #ordered{
-      text-align: center;
+  #list{
+      align-items: center;
   }
  
 
